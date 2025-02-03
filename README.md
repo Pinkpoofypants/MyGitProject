@@ -39,9 +39,26 @@ Aaleyah:
 Charlie:
 
 
-7. Coding Tasks:
+7. Coding Task
+Backend Development (Charlie)
+- Implemented the core game logic using object-oriented programming (OOP).  
+- Created classes (`rock`, `paper`, `scissors`) inheriting from a base class `rpsObject`, each with a `value` and a `weakness` attribute.  
+- Developed the `rpsMake(choice)` function to return the corresponding object based on the user or computer’s choice.  
+- Implemented the `randomChoice()` function to allow the computer to randomly select between rock, paper, and scissors.  
+- Built the `testWin(computer, player)` function to determine the winner based on the game's rules:  
+  - Returns `1` if the player wins.  
+  - Returns `2` if the computer wins.  
+  - Returns `0` if it’s a tie.  
 
-   
+This backend logic ensures that the game operates correctly by processing user input and computing results efficiently.
+
+Frontend Development (Aaleyah)
+- Designed the command-line interface (CLI) for user interaction.  
+- Provided clear game instructions and options for user input.  
+- Allowed users to enter their choice (`r`, `p`, `s`) or quit the game at any time.  
+- Ensured smooth game flow by handling user input validation before passing it to the backend logic.  
+
+This separation of frontend and backend allowed for modular design, making it easier to manage and collaborate on the project using GitHub.  
 
 9. Version Control Workflow:
 
