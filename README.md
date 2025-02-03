@@ -34,7 +34,3 @@ To effectively collaborate on this project, we established a structured version 
 2. **`frontend` Branch** – This branch served as the driver class, handling user interaction and executing the game based on the logic implemented in the first branch.  
 
 Each team member worked on their assigned task within their respective branches, making commits as they progressed. Once the changes were tested and verified, we merged the `frontend` branch with `mygithubproject.1`, ensuring a seamless integration of functionality and user interaction. This workflow allowed us to maintain an organized structure while efficiently tracking and managing contributions.
-
-9. Collaborative Coding:
-
-10. ReadMe File:
