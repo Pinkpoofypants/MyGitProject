@@ -4,21 +4,25 @@ class rpsObject:
 	def __init__(self):
 		self.value = None
 		self.weakness = None
+		self.name = None
 
 class rock(rpsObject):
 	def __init__(self):
 		self.value = 'r'
 		self.weakness = 'p'
+		self.name = 'Rock'
 
 class paper(rpsObject):
 	def __init__(self):
 		self.value = 'p'
 		self.weakness = 's'
+		self.name = 'Paper'
 
 class scissors(rpsObject):
 	def __init__(self):
 		self.value = 's'
 		self.weakness = 'r'
+		self.name = 'Scissors'
 
 def rpsMake(choice):
 	if choice == 'r':
