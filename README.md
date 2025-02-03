@@ -1,5 +1,21 @@
 # MyGitProject
 Assignment 2 for computer concepts COMP1243
+
+1. Names entered in shared spreadsheet
+
+Aaleyah Evans (leyah242) - 100159942
+
+Charlie Allaby (Pinkpoofypants) - 100161606
+
+3. Problem:
+
+We wanted to create a rock, paper, scissors game in python. 
+
+4. Roles in project
+Aaleyah: Front end and driver
+
+Charlie: Back end and rock paper scissors logic
+
 1. Names entered in a shared spreadsheet
 Aaleyah Evans - (Leyah242) - 100159912
 Charlie Allaby (Pinkpoofypants) - 100161606
@@ -19,14 +35,15 @@ The project should also demonstrate **collaborative coding** using GitHub, inclu
 
 3. Roles in the project
 Aaleyah:
+
 Charlie:
 
-4. Git setup done.
+6. Git setup done.
 
-5. Coding Tasks:
+7. Coding Tasks:
 
-6. Version Control Workflow:
+8. Version Control Workflow:
 
-7. Collaborative Coding:
+9. Collaborative Coding:
 
-8. ReadMe File:
+10. ReadMe File:
