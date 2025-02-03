@@ -1,7 +1,7 @@
 # MyGitProject
 Assignment 2 for computer concepts COMP1243
 1. Names entered in shared spreadsheet
-Aaleyah Evans -
+Aaleyah Evans - (Leyah242) - 100159912
 Charlie Allaby (Pinkpoofypants) - 100161606
 
 2. Problem:
