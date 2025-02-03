@@ -33,12 +33,6 @@ Develop a **Rock, Paper, Scissors** game where a user plays against the computer
 
 The project should also demonstrate **collaborative coding** using GitHub, including **branching, pull requests, and commits** to manage contributions from multiple team members.
 
-3. Roles in the project
-Aaleyah:
-
-Charlie:
-
-
 7. Coding Task
 Backend Development (Charlie)
 - Implemented the core game logic using object-oriented programming (OOP).  
