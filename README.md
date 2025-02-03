@@ -1,22 +1,24 @@
 # MyGitProject
 Assignment 2 for computer concepts COMP1243
-1. Names entered in shared spreadsheet \n
-Aaleyah Evans -
+1. Names entered in shared spreadsheet
+
+Aaleyah Evans (leyah242) - 100159942
 Charlie Allaby (Pinkpoofypants) - 100161606
 
-2. Problem:
+3. Problem:
 
 
-3. Roles in project
+
+4. Roles in project
 Aaleyah:
 Charlie:
 
-4. Git setup done.
+5. Git setup done.
 
-5. Coding Tasks:
+6. Coding Tasks:
 
-6. Version Control Workflow:
+7. Version Control Workflow:
 
-7. Collaborative Coding:
+8. Collaborative Coding:
 
-8. ReadMe File:
+9. ReadMe File:
