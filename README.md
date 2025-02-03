@@ -38,12 +38,18 @@ Aaleyah:
 
 Charlie:
 
-6. Git setup done.
 
 7. Coding Tasks:
 
-8. Version Control Workflow:
+   
 
-9. Collaborative Coding:
+9. Version Control Workflow:
 
-10. ReadMe File:
+To effectively collaborate on this project, we established a structured version control workflow using GitHub. Our repository contained two main branches:  
+
+1. **`mygithubproject.1` Branch** – This branch focused on implementing the core functionality of the Rock, Paper, Scissors game. It contained the logic for user input, computer-generated choices, and determining the winner.  
+
+2. **`frontend` Branch** – This branch served as the driver class, handling user interaction and executing the game based on the logic implemented in the first branch.  
+
+Each team member worked on their assigned task within their respective branches, making commits as they progressed. Once the changes were tested and verified, we merged the `frontend` branch with `mygithubproject.1`, ensuring a seamless integration of functionality and user interaction. This workflow allowed us to maintain an organized structure while efficiently tracking and managing contributions.
+
