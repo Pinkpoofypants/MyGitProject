@@ -1,6 +1,6 @@
 # MyGitProject
 Assignment 2 for computer concepts COMP1243
-1. Names entered in shared spreadsheet
+1. Names entered in shared spreadsheet \n
 Aaleyah Evans -
 Charlie Allaby (Pinkpoofypants) - 100161606
 
