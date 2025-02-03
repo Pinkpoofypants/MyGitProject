@@ -33,17 +33,34 @@ Develop a **Rock, Paper, Scissors** game where a user plays against the computer
 
 The project should also demonstrate **collaborative coding** using GitHub, including **branching, pull requests, and commits** to manage contributions from multiple team members.
 
-3. Roles in the project
-Aaleyah:
+7. Coding Task
+Backend Development (Charlie)
+- Implemented the core game logic using object-oriented programming (OOP).  
+- Created classes (`rock`, `paper`, `scissors`) inheriting from a base class `rpsObject`, each with a `value` and a `weakness` attribute.  
+- Developed the `rpsMake(choice)` function to return the corresponding object based on the user or computer’s choice.  
+- Implemented the `randomChoice()` function to allow the computer to randomly select between rock, paper, and scissors.  
+- Built the `testWin(computer, player)` function to determine the winner based on the game's rules:  
+  - Returns `1` if the player wins.  
+  - Returns `2` if the computer wins.  
+  - Returns `0` if it’s a tie.  
 
-Charlie:
+This backend logic ensures that the game operates correctly by processing user input and computing results efficiently.
 
-6. Git setup done.
+Frontend Development (Aaleyah)
+- Designed the command-line interface (CLI) for user interaction.  
+- Provided clear game instructions and options for user input.  
+- Allowed users to enter their choice (`r`, `p`, `s`) or quit the game at any time.  
+- Ensured smooth game flow by handling user input validation before passing it to the backend logic.  
 
-7. Coding Tasks:
+This separation of frontend and backend allowed for modular design, making it easier to manage and collaborate on the project using GitHub.  
 
-8. Version Control Workflow:
+9. Version Control Workflow:
 
-9. Collaborative Coding:
+To effectively collaborate on this project, we established a structured version control workflow using GitHub. Our repository contained two main branches:  
 
-10. ReadMe File:
+1. **`mygithubproject.1` Branch** – This branch focused on implementing the core functionality of the Rock, Paper, Scissors game. It contained the logic for user input, computer-generated choices, and determining the winner.  
+
+2. **`frontend` Branch** – This branch served as the driver class, handling user interaction and executing the game based on the logic implemented in the first branch.  
+
+Each team member worked on their assigned task within their respective branches, making commits as they progressed. Once the changes were tested and verified, we merged the `frontend` branch with `mygithubproject.1`, ensuring a seamless integration of functionality and user interaction. This workflow allowed us to maintain an organized structure while efficiently tracking and managing contributions.
+
