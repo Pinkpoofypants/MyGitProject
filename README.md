@@ -21,12 +21,12 @@ The project should also demonstrate **collaborative coding** using GitHub, inclu
 Aaleyah:
 Charlie:
 
-4. Git setup done.
-
 5. Coding Tasks:
+Aaleyah: Focused on creating the driver class. This allowed us to print out the instructions for the user to see and then use the user input to let the user choose rock, paper, or scissors. Lastly, an if statement was created to validate the user input.
+Charlie:
 
-6. Version Control Workflow:
+7. Version Control Workflow:
 
-7. Collaborative Coding:
+8. Collaborative Coding:
 
-8. ReadMe File:
+9. ReadMe File:
