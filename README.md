@@ -27,7 +27,6 @@ Charlie:
 
 7. Version Control Workflow:
 
-
 To effectively collaborate on this project, we established a structured version control workflow using GitHub. Our repository contained two main branches:  
 
 1. **`mygithubproject.1` Branch** – This branch focused on implementing the core functionality of the Rock, Paper, Scissors game. It contained the logic for user input, computer-generated choices, and determining the winner.  
