@@ -5,7 +5,6 @@ Aaleyah Evans - (Leyah242) - 100159912
 Charlie Allaby (Pinkpoofypants) - 100161606
 
 2. Problem:
-3. 
 Develop a **Rock, Paper, Scissors** game where a user plays against the computer in a command-line interface (CLI). The game should:  
 - Allow the user to enter "rock," "paper," or "scissors."  
 - Randomly generate the computer’s choice.  
