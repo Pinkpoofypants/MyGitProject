@@ -1,5 +1,4 @@
 import random
-from winreg import REG_OPENED_EXISTING_KEY
 
 class rpsObject:
 	def __init__(self):
